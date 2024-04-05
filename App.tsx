@@ -17,12 +17,13 @@ import NgheNhac from './Demo4/Demo41/NgheNhac'
 import ChupAnh from './Demo4/Demo41/ChupAnh'
 import AppDemo5 from './Demo5/AppDemo5'
 import App61 from './Demo6/App61'
+import Demo71 from './L7/Demo71'
 const App = () => {
   return (
     <View style={{
       flex: 1
     }}>
-      <App61/>
+      <Demo71/>
     </View>
   )
 }
