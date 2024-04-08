@@ -18,12 +18,13 @@ import ChupAnh from './Demo4/Demo41/ChupAnh'
 import AppDemo5 from './Demo5/AppDemo5'
 import App61 from './Demo6/App61'
 import Demo71 from './L7/Demo71'
+import App72 from './L7/CRUDApp72'
 const App = () => {
   return (
     <View style={{
       flex: 1
     }}>
-      <Demo71/>
+      <App72/>
     </View>
   )
 }
